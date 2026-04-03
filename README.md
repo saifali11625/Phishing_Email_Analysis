@@ -18,3 +18,9 @@ To identify phishing emails using header and content analysis.
 
 ## 📚 Conclusion
 This project demonstrates phishing detection skills useful for SOC analysts.
+
+## 🧠 Skills Demonstrated
+- Email analysis
+- Phishing detection
+- Threat identification
+- Incident response basics
